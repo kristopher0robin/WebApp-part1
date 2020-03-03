@@ -8,9 +8,11 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>123</title>
+    <title>Default page</title>
+    <link href="resources/style.css" rel="stylesheet">
   </head>
   <body>
-  123
+  <h1>Welcome!</h1>
+  Default page
   </body>
 </html>
